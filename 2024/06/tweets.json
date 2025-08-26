@@ -1,0 +1,1557 @@
+[
+    {
+        "user_id": "user_44",
+        "tweet_text": "The future is here with #Hadoop. Exciting times ahead! #DataScience",
+        "timestamp": "2024-06-24 04:17:43",
+        "hashtags": [
+            "#Hadoop",
+            "#MapReduce",
+            "#Hadoop"
+        ],
+        "location": {
+            "city": "London",
+            "coordinates": [
+                51.5074,
+                -0.1278
+            ]
+        }
+    },
+    {
+        "user_id": "user_18",
+        "tweet_text": "Case study: successful implementation of #Analytics in a startup environment. ",
+        "timestamp": "2024-06-05 05:34:59",
+        "hashtags": [
+            "#Analytics"
+        ],
+        "location": {
+            "city": "San Francisco",
+            "coordinates": [
+                37.7749,
+                -122.4194
+            ]
+        }
+    },
+    {
+        "user_id": "user_25",
+        "tweet_text": "Challenges and opportunities in the adoption of #IoT. ",
+        "timestamp": "2024-06-14 15:10:46",
+        "hashtags": [
+            "#IoT",
+            "#BigData",
+            "#MapReduce"
+        ],
+        "location": {
+            "city": "São Paulo",
+            "coordinates": [
+                -23.5505,
+                -46.6333
+            ]
+        }
+    },
+    {
+        "user_id": "user_41",
+        "tweet_text": "Exploring the potential of #Blockchain in modern industries. ",
+        "timestamp": "2024-06-14 17:23:48",
+        "hashtags": [
+            "#Blockchain"
+        ],
+        "location": {
+            "city": "Paris",
+            "coordinates": [
+                48.8566,
+                2.3522
+            ]
+        }
+    },
+    {
+        "user_id": "user_23",
+        "tweet_text": "Challenges and opportunities in the adoption of #AI. #IoT #Analytics",
+        "timestamp": "2024-06-11 18:22:36",
+        "hashtags": [
+            "#AI"
+        ],
+        "location": {
+            "city": "Mumbai",
+            "coordinates": [
+                19.076,
+                72.8777
+            ]
+        }
+    },
+    {
+        "user_id": "user_18",
+        "tweet_text": "The role of #DataScience in achieving sustainable development goals. ",
+        "timestamp": "2024-06-25 22:07:55",
+        "hashtags": [
+            "#DataScience"
+        ],
+        "location": {
+            "city": "Tokyo",
+            "coordinates": [
+                35.6895,
+                139.6917
+            ]
+        }
+    },
+    {
+        "user_id": "user_20",
+        "tweet_text": "The role of #DataScience in achieving sustainable development goals. #IoT",
+        "timestamp": "2024-06-12 03:36:42",
+        "hashtags": [
+            "#DataScience",
+            "#Hadoop",
+            "#AI"
+        ],
+        "location": {
+            "city": "Mumbai",
+            "coordinates": [
+                19.076,
+                72.8777
+            ]
+        }
+    },
+    {
+        "user_id": "user_33",
+        "tweet_text": "Just attended a fantastic seminar on #DataScience! Highly recommend. #DataScience #MapReduce",
+        "timestamp": "2024-06-24 05:12:42",
+        "hashtags": [
+            "#DataScience"
+        ],
+        "location": {
+            "city": "São Paulo",
+            "coordinates": [
+                -23.5505,
+                -46.6333
+            ]
+        }
+    },
+    {
+        "user_id": "user_22",
+        "tweet_text": "Just attended a fantastic seminar on #Analytics! Highly recommend. ",
+        "timestamp": "2024-06-02 16:55:09",
+        "hashtags": [
+            "#Analytics"
+        ],
+        "location": {
+            "city": "New York",
+            "coordinates": [
+                40.7128,
+                -74.006
+            ]
+        }
+    },
+    {
+        "user_id": "user_13",
+        "tweet_text": "How #Analytics is revolutionizing the way we approach problems. ",
+        "timestamp": "2024-06-09 09:46:59",
+        "hashtags": [
+            "#Analytics"
+        ],
+        "location": {
+            "city": "Tokyo",
+            "coordinates": [
+                35.6895,
+                139.6917
+            ]
+        }
+    },
+    {
+        "user_id": "user_26",
+        "tweet_text": "Breaking down the myths surrounding #IoT and its applications. #DataScience #Hadoop",
+        "timestamp": "2024-06-12 09:14:06",
+        "hashtags": [
+            "#IoT",
+            "#CloudComputing",
+            "#AI"
+        ],
+        "location": {
+            "city": "Mumbai",
+            "coordinates": [
+                19.076,
+                72.8777
+            ]
+        }
+    },
+    {
+        "user_id": "user_30",
+        "tweet_text": "The role of #Analytics in achieving sustainable development goals. #Analytics",
+        "timestamp": "2024-06-20 04:35:18",
+        "hashtags": [
+            "#Analytics",
+            "#MachineLearning"
+        ],
+        "location": {
+            "city": "Sydney",
+            "coordinates": [
+                -33.8688,
+                151.2093
+            ]
+        }
+    },
+    {
+        "user_id": "user_37",
+        "tweet_text": "Just attended a fantastic seminar on #Analytics! Highly recommend. #IoT",
+        "timestamp": "2024-06-16 16:26:01",
+        "hashtags": [
+            "#Analytics"
+        ],
+        "location": {
+            "city": "Paris",
+            "coordinates": [
+                48.8566,
+                2.3522
+            ]
+        }
+    },
+    {
+        "user_id": "user_49",
+        "tweet_text": "Challenges and opportunities in the adoption of #DataScience. ",
+        "timestamp": "2024-06-11 22:06:15",
+        "hashtags": [
+            "#DataScience",
+            "#AI"
+        ],
+        "location": {
+            "city": "Paris",
+            "coordinates": [
+                48.8566,
+                2.3522
+            ]
+        }
+    },
+    {
+        "user_id": "user_12",
+        "tweet_text": "The role of #Blockchain in achieving sustainable development goals. #MachineLearning",
+        "timestamp": "2024-06-13 19:35:19",
+        "hashtags": [
+            "#Blockchain",
+            "#IoT"
+        ],
+        "location": {
+            "city": "Tokyo",
+            "coordinates": [
+                35.6895,
+                139.6917
+            ]
+        }
+    },
+    {
+        "user_id": "user_42",
+        "tweet_text": "Just attended a fantastic seminar on #DataScience! Highly recommend. ",
+        "timestamp": "2024-06-03 19:43:05",
+        "hashtags": [
+            "#DataScience",
+            "#MachineLearning",
+            "#CloudComputing"
+        ],
+        "location": {
+            "city": "Tokyo",
+            "coordinates": [
+                35.6895,
+                139.6917
+            ]
+        }
+    },
+    {
+        "user_id": "user_40",
+        "tweet_text": "Just attended a fantastic seminar on #Analytics! Highly recommend. ",
+        "timestamp": "2024-06-17 20:01:58",
+        "hashtags": [
+            "#Analytics"
+        ],
+        "location": {
+            "city": "New York",
+            "coordinates": [
+                40.7128,
+                -74.006
+            ]
+        }
+    },
+    {
+        "user_id": "user_43",
+        "tweet_text": "Can anyone explain the basics of #DataScience? Starting my journey. #MapReduce #CloudComputing",
+        "timestamp": "2024-06-21 06:17:50",
+        "hashtags": [
+            "#DataScience",
+            "#IoT",
+            "#Blockchain"
+        ],
+        "location": {
+            "city": "Paris",
+            "coordinates": [
+                48.8566,
+                2.3522
+            ]
+        }
+    },
+    {
+        "user_id": "user_39",
+        "tweet_text": "Challenges and opportunities in the adoption of #Blockchain. ",
+        "timestamp": "2024-06-17 05:51:13",
+        "hashtags": [
+            "#Blockchain",
+            "#BigData"
+        ],
+        "location": {
+            "city": "Dubai",
+            "coordinates": [
+                25.2048,
+                55.2708
+            ]
+        }
+    },
+    {
+        "user_id": "user_13",
+        "tweet_text": "Breaking down the myths surrounding #Blockchain and its applications. ",
+        "timestamp": "2024-06-14 05:22:15",
+        "hashtags": [
+            "#Blockchain",
+            "#DataScience"
+        ],
+        "location": {
+            "city": "Sydney",
+            "coordinates": [
+                -33.8688,
+                151.2093
+            ]
+        }
+    },
+    {
+        "user_id": "user_35",
+        "tweet_text": "Can anyone explain the basics of #Analytics? Starting my journey. #MachineLearning #Hadoop",
+        "timestamp": "2024-06-12 05:47:55",
+        "hashtags": [
+            "#Analytics",
+            "#MapReduce",
+            "#DataScience"
+        ],
+        "location": {
+            "city": "London",
+            "coordinates": [
+                51.5074,
+                -0.1278
+            ]
+        }
+    },
+    {
+        "user_id": "user_24",
+        "tweet_text": "Can anyone explain the basics of #DataScience? Starting my journey. #MachineLearning",
+        "timestamp": "2024-06-12 17:54:04",
+        "hashtags": [
+            "#DataScience"
+        ],
+        "location": {
+            "city": "London",
+            "coordinates": [
+                51.5074,
+                -0.1278
+            ]
+        }
+    },
+    {
+        "user_id": "user_48",
+        "tweet_text": "Can anyone explain the basics of #AI? Starting my journey. ",
+        "timestamp": "2024-06-24 13:08:12",
+        "hashtags": [
+            "#AI"
+        ],
+        "location": {
+            "city": "Mumbai",
+            "coordinates": [
+                19.076,
+                72.8777
+            ]
+        }
+    },
+    {
+        "user_id": "user_3",
+        "tweet_text": "The role of #IoT in achieving sustainable development goals. #Hadoop #MapReduce",
+        "timestamp": "2024-06-28 13:29:21",
+        "hashtags": [
+            "#IoT",
+            "#Blockchain"
+        ],
+        "location": {
+            "city": "Paris",
+            "coordinates": [
+                48.8566,
+                2.3522
+            ]
+        }
+    },
+    {
+        "user_id": "user_46",
+        "tweet_text": "Can anyone explain the basics of #Hadoop? Starting my journey. #Hadoop",
+        "timestamp": "2024-06-10 14:11:52",
+        "hashtags": [
+            "#Hadoop"
+        ],
+        "location": {
+            "city": "São Paulo",
+            "coordinates": [
+                -23.5505,
+                -46.6333
+            ]
+        }
+    },
+    {
+        "user_id": "user_25",
+        "tweet_text": "A beginner's guide to understanding #AI. #Learning #AI #CloudComputing",
+        "timestamp": "2024-06-06 16:22:57",
+        "hashtags": [
+            "#AI",
+            "#Blockchain"
+        ],
+        "location": {
+            "city": "Tokyo",
+            "coordinates": [
+                35.6895,
+                139.6917
+            ]
+        }
+    },
+    {
+        "user_id": "user_26",
+        "tweet_text": "Challenges and opportunities in the adoption of #Blockchain. ",
+        "timestamp": "2024-06-28 08:31:41",
+        "hashtags": [
+            "#Blockchain"
+        ],
+        "location": {
+            "city": "Berlin",
+            "coordinates": [
+                52.52,
+                13.405
+            ]
+        }
+    },
+    {
+        "user_id": "user_21",
+        "tweet_text": "The future is here with #DataScience. Exciting times ahead! ",
+        "timestamp": "2024-06-08 21:22:02",
+        "hashtags": [
+            "#DataScience"
+        ],
+        "location": {
+            "city": "Tokyo",
+            "coordinates": [
+                35.6895,
+                139.6917
+            ]
+        }
+    },
+    {
+        "user_id": "user_35",
+        "tweet_text": "Exploring the potential of #Analytics in modern industries. ",
+        "timestamp": "2024-06-04 02:29:17",
+        "hashtags": [
+            "#Analytics",
+            "#BigData",
+            "#Analytics"
+        ],
+        "location": {
+            "city": "London",
+            "coordinates": [
+                51.5074,
+                -0.1278
+            ]
+        }
+    },
+    {
+        "user_id": "user_35",
+        "tweet_text": "Can anyone explain the basics of #DataScience? Starting my journey. #Blockchain",
+        "timestamp": "2024-06-17 00:26:03",
+        "hashtags": [
+            "#DataScience"
+        ],
+        "location": {
+            "city": "Berlin",
+            "coordinates": [
+                52.52,
+                13.405
+            ]
+        }
+    },
+    {
+        "user_id": "user_15",
+        "tweet_text": "How #Analytics is revolutionizing the way we approach problems. #MapReduce",
+        "timestamp": "2024-06-28 02:23:55",
+        "hashtags": [
+            "#Analytics",
+            "#IoT"
+        ],
+        "location": {
+            "city": "San Francisco",
+            "coordinates": [
+                37.7749,
+                -122.4194
+            ]
+        }
+    },
+    {
+        "user_id": "user_35",
+        "tweet_text": "Challenges and opportunities in the adoption of #Hadoop. #MachineLearning #Blockchain",
+        "timestamp": "2024-06-06 16:34:02",
+        "hashtags": [
+            "#Hadoop"
+        ],
+        "location": {
+            "city": "San Francisco",
+            "coordinates": [
+                37.7749,
+                -122.4194
+            ]
+        }
+    },
+    {
+        "user_id": "user_42",
+        "tweet_text": "A beginner's guide to understanding #Analytics. #Learning #Blockchain",
+        "timestamp": "2024-06-21 09:06:40",
+        "hashtags": [
+            "#Analytics"
+        ],
+        "location": {
+            "city": "London",
+            "coordinates": [
+                51.5074,
+                -0.1278
+            ]
+        }
+    },
+    {
+        "user_id": "user_35",
+        "tweet_text": "Case study: successful implementation of #DataScience in a startup environment. #Analytics",
+        "timestamp": "2024-06-15 13:09:51",
+        "hashtags": [
+            "#DataScience",
+            "#Analytics"
+        ],
+        "location": {
+            "city": "São Paulo",
+            "coordinates": [
+                -23.5505,
+                -46.6333
+            ]
+        }
+    },
+    {
+        "user_id": "user_10",
+        "tweet_text": "Challenges and opportunities in the adoption of #DataScience. #MapReduce #BigData",
+        "timestamp": "2024-06-05 21:15:01",
+        "hashtags": [
+            "#DataScience",
+            "#Analytics"
+        ],
+        "location": {
+            "city": "Tokyo",
+            "coordinates": [
+                35.6895,
+                139.6917
+            ]
+        }
+    },
+    {
+        "user_id": "user_37",
+        "tweet_text": "How #DataScience is revolutionizing the way we approach problems. #Analytics",
+        "timestamp": "2024-06-14 14:45:26",
+        "hashtags": [
+            "#DataScience",
+            "#Analytics"
+        ],
+        "location": {
+            "city": "Paris",
+            "coordinates": [
+                48.8566,
+                2.3522
+            ]
+        }
+    },
+    {
+        "user_id": "user_43",
+        "tweet_text": "A beginner's guide to understanding #DataScience. #Learning ",
+        "timestamp": "2024-06-28 10:11:57",
+        "hashtags": [
+            "#DataScience",
+            "#AI"
+        ],
+        "location": {
+            "city": "Paris",
+            "coordinates": [
+                48.8566,
+                2.3522
+            ]
+        }
+    },
+    {
+        "user_id": "user_10",
+        "tweet_text": "A beginner's guide to understanding #Hadoop. #Learning ",
+        "timestamp": "2024-06-01 00:38:08",
+        "hashtags": [
+            "#Hadoop"
+        ],
+        "location": {
+            "city": "Mumbai",
+            "coordinates": [
+                19.076,
+                72.8777
+            ]
+        }
+    },
+    {
+        "user_id": "user_18",
+        "tweet_text": "How #DataScience is revolutionizing the way we approach problems. #CloudComputing #MachineLearning",
+        "timestamp": "2024-06-07 11:54:11",
+        "hashtags": [
+            "#DataScience",
+            "#CloudComputing",
+            "#MapReduce"
+        ],
+        "location": {
+            "city": "San Francisco",
+            "coordinates": [
+                37.7749,
+                -122.4194
+            ]
+        }
+    },
+    {
+        "user_id": "user_38",
+        "tweet_text": "Exploring the potential of #DataScience in modern industries. ",
+        "timestamp": "2024-06-22 06:14:51",
+        "hashtags": [
+            "#DataScience",
+            "#IoT"
+        ],
+        "location": {
+            "city": "Tokyo",
+            "coordinates": [
+                35.6895,
+                139.6917
+            ]
+        }
+    },
+    {
+        "user_id": "user_24",
+        "tweet_text": "Breaking down the myths surrounding #Analytics and its applications. #BigData",
+        "timestamp": "2024-06-09 15:51:43",
+        "hashtags": [
+            "#Analytics"
+        ],
+        "location": {
+            "city": "Berlin",
+            "coordinates": [
+                52.52,
+                13.405
+            ]
+        }
+    },
+    {
+        "user_id": "user_34",
+        "tweet_text": "The future is here with #DataScience. Exciting times ahead! #BigData #MachineLearning",
+        "timestamp": "2024-06-03 12:51:26",
+        "hashtags": [
+            "#DataScience",
+            "#CloudComputing"
+        ],
+        "location": {
+            "city": "San Francisco",
+            "coordinates": [
+                37.7749,
+                -122.4194
+            ]
+        }
+    },
+    {
+        "user_id": "user_6",
+        "tweet_text": "A beginner's guide to understanding #Analytics. #Learning #IoT #Hadoop",
+        "timestamp": "2024-06-16 15:40:25",
+        "hashtags": [
+            "#Analytics"
+        ],
+        "location": {
+            "city": "São Paulo",
+            "coordinates": [
+                -23.5505,
+                -46.6333
+            ]
+        }
+    },
+    {
+        "user_id": "user_34",
+        "tweet_text": "The role of #CloudComputing in achieving sustainable development goals. #Blockchain #CloudComputing",
+        "timestamp": "2024-06-07 08:04:42",
+        "hashtags": [
+            "#CloudComputing",
+            "#MachineLearning"
+        ],
+        "location": {
+            "city": "Paris",
+            "coordinates": [
+                48.8566,
+                2.3522
+            ]
+        }
+    },
+    {
+        "user_id": "user_38",
+        "tweet_text": "Case study: successful implementation of #IoT in a startup environment. #MachineLearning",
+        "timestamp": "2024-06-01 15:35:58",
+        "hashtags": [
+            "#IoT",
+            "#CloudComputing"
+        ],
+        "location": {
+            "city": "São Paulo",
+            "coordinates": [
+                -23.5505,
+                -46.6333
+            ]
+        }
+    },
+    {
+        "user_id": "user_19",
+        "tweet_text": "The role of #Analytics in achieving sustainable development goals. #MachineLearning #DataScience",
+        "timestamp": "2024-06-07 18:39:53",
+        "hashtags": [
+            "#Analytics",
+            "#MachineLearning"
+        ],
+        "location": {
+            "city": "Mumbai",
+            "coordinates": [
+                19.076,
+                72.8777
+            ]
+        }
+    },
+    {
+        "user_id": "user_25",
+        "tweet_text": "Can anyone explain the basics of #Blockchain? Starting my journey. ",
+        "timestamp": "2024-06-06 15:20:02",
+        "hashtags": [
+            "#Blockchain",
+            "#BigData",
+            "#IoT"
+        ],
+        "location": {
+            "city": "Paris",
+            "coordinates": [
+                48.8566,
+                2.3522
+            ]
+        }
+    },
+    {
+        "user_id": "user_35",
+        "tweet_text": "Challenges and opportunities in the adoption of #Analytics. ",
+        "timestamp": "2024-06-02 21:12:50",
+        "hashtags": [
+            "#Analytics",
+            "#AI",
+            "#MachineLearning"
+        ],
+        "location": {
+            "city": "London",
+            "coordinates": [
+                51.5074,
+                -0.1278
+            ]
+        }
+    },
+    {
+        "user_id": "user_32",
+        "tweet_text": "Just attended a fantastic seminar on #Blockchain! Highly recommend. #DataScience #MapReduce",
+        "timestamp": "2024-06-30 04:12:51",
+        "hashtags": [
+            "#Blockchain"
+        ],
+        "location": {
+            "city": "Tokyo",
+            "coordinates": [
+                35.6895,
+                139.6917
+            ]
+        }
+    },
+    {
+        "user_id": "user_4",
+        "tweet_text": "Challenges and opportunities in the adoption of #DataScience. #Hadoop",
+        "timestamp": "2024-06-12 07:27:02",
+        "hashtags": [
+            "#DataScience",
+            "#AI",
+            "#DataScience"
+        ],
+        "location": {
+            "city": "Berlin",
+            "coordinates": [
+                52.52,
+                13.405
+            ]
+        }
+    },
+    {
+        "user_id": "user_3",
+        "tweet_text": "Case study: successful implementation of #DataScience in a startup environment. #CloudComputing",
+        "timestamp": "2024-06-20 18:17:35",
+        "hashtags": [
+            "#DataScience",
+            "#AI",
+            "#Blockchain"
+        ],
+        "location": {
+            "city": "Paris",
+            "coordinates": [
+                48.8566,
+                2.3522
+            ]
+        }
+    },
+    {
+        "user_id": "user_1",
+        "tweet_text": "The future is here with #DataScience. Exciting times ahead! #CloudComputing #Blockchain",
+        "timestamp": "2024-06-01 14:52:27",
+        "hashtags": [
+            "#DataScience"
+        ],
+        "location": {
+            "city": "New York",
+            "coordinates": [
+                40.7128,
+                -74.006
+            ]
+        }
+    },
+    {
+        "user_id": "user_36",
+        "tweet_text": "How #Blockchain is revolutionizing the way we approach problems. #Blockchain #MachineLearning",
+        "timestamp": "2024-06-04 10:45:31",
+        "hashtags": [
+            "#Blockchain",
+            "#DataScience",
+            "#CloudComputing"
+        ],
+        "location": {
+            "city": "Dubai",
+            "coordinates": [
+                25.2048,
+                55.2708
+            ]
+        }
+    },
+    {
+        "user_id": "user_32",
+        "tweet_text": "The future is here with #Hadoop. Exciting times ahead! ",
+        "timestamp": "2024-06-24 13:52:47",
+        "hashtags": [
+            "#Hadoop",
+            "#DataScience",
+            "#MachineLearning"
+        ],
+        "location": {
+            "city": "San Francisco",
+            "coordinates": [
+                37.7749,
+                -122.4194
+            ]
+        }
+    },
+    {
+        "user_id": "user_6",
+        "tweet_text": "Breaking down the myths surrounding #Analytics and its applications. #MapReduce",
+        "timestamp": "2024-06-23 19:18:02",
+        "hashtags": [
+            "#Analytics",
+            "#MapReduce"
+        ],
+        "location": {
+            "city": "Mumbai",
+            "coordinates": [
+                19.076,
+                72.8777
+            ]
+        }
+    },
+    {
+        "user_id": "user_44",
+        "tweet_text": "The role of #Analytics in achieving sustainable development goals. ",
+        "timestamp": "2024-06-01 01:05:18",
+        "hashtags": [
+            "#Analytics",
+            "#Blockchain",
+            "#Hadoop"
+        ],
+        "location": {
+            "city": "São Paulo",
+            "coordinates": [
+                -23.5505,
+                -46.6333
+            ]
+        }
+    },
+    {
+        "user_id": "user_20",
+        "tweet_text": "How #IoT is revolutionizing the way we approach problems. #AI #BigData",
+        "timestamp": "2024-06-09 04:46:58",
+        "hashtags": [
+            "#IoT"
+        ],
+        "location": {
+            "city": "Mumbai",
+            "coordinates": [
+                19.076,
+                72.8777
+            ]
+        }
+    },
+    {
+        "user_id": "user_39",
+        "tweet_text": "Challenges and opportunities in the adoption of #Analytics. #MachineLearning",
+        "timestamp": "2024-06-04 07:00:05",
+        "hashtags": [
+            "#Analytics",
+            "#Analytics",
+            "#MachineLearning"
+        ],
+        "location": {
+            "city": "Mumbai",
+            "coordinates": [
+                19.076,
+                72.8777
+            ]
+        }
+    },
+    {
+        "user_id": "user_7",
+        "tweet_text": "Exploring the potential of #DataScience in modern industries. #CloudComputing #AI",
+        "timestamp": "2024-06-19 01:41:41",
+        "hashtags": [
+            "#DataScience"
+        ],
+        "location": {
+            "city": "Sydney",
+            "coordinates": [
+                -33.8688,
+                151.2093
+            ]
+        }
+    },
+    {
+        "user_id": "user_1",
+        "tweet_text": "Can anyone explain the basics of #Analytics? Starting my journey. #IoT",
+        "timestamp": "2024-06-30 06:24:53",
+        "hashtags": [
+            "#Analytics",
+            "#Analytics",
+            "#MachineLearning"
+        ],
+        "location": {
+            "city": "São Paulo",
+            "coordinates": [
+                -23.5505,
+                -46.6333
+            ]
+        }
+    },
+    {
+        "user_id": "user_42",
+        "tweet_text": "How #Analytics is revolutionizing the way we approach problems. #Blockchain",
+        "timestamp": "2024-06-21 11:39:19",
+        "hashtags": [
+            "#Analytics",
+            "#Hadoop"
+        ],
+        "location": {
+            "city": "London",
+            "coordinates": [
+                51.5074,
+                -0.1278
+            ]
+        }
+    },
+    {
+        "user_id": "user_11",
+        "tweet_text": "The role of #Analytics in achieving sustainable development goals. ",
+        "timestamp": "2024-06-02 19:45:40",
+        "hashtags": [
+            "#Analytics",
+            "#Hadoop"
+        ],
+        "location": {
+            "city": "Dubai",
+            "coordinates": [
+                25.2048,
+                55.2708
+            ]
+        }
+    },
+    {
+        "user_id": "user_1",
+        "tweet_text": "Breaking down the myths surrounding #BigData and its applications. #CloudComputing #DataScience",
+        "timestamp": "2024-06-08 14:41:04",
+        "hashtags": [
+            "#BigData",
+            "#CloudComputing"
+        ],
+        "location": {
+            "city": "Dubai",
+            "coordinates": [
+                25.2048,
+                55.2708
+            ]
+        }
+    },
+    {
+        "user_id": "user_14",
+        "tweet_text": "Just attended a fantastic seminar on #DataScience! Highly recommend. #CloudComputing #IoT",
+        "timestamp": "2024-06-01 14:17:03",
+        "hashtags": [
+            "#DataScience",
+            "#MapReduce"
+        ],
+        "location": {
+            "city": "Dubai",
+            "coordinates": [
+                25.2048,
+                55.2708
+            ]
+        }
+    },
+    {
+        "user_id": "user_40",
+        "tweet_text": "Exploring the potential of #DataScience in modern industries. #Hadoop",
+        "timestamp": "2024-06-03 13:39:13",
+        "hashtags": [
+            "#DataScience",
+            "#BigData",
+            "#IoT"
+        ],
+        "location": {
+            "city": "Berlin",
+            "coordinates": [
+                52.52,
+                13.405
+            ]
+        }
+    },
+    {
+        "user_id": "user_32",
+        "tweet_text": "Breaking down the myths surrounding #Hadoop and its applications. ",
+        "timestamp": "2024-06-27 00:26:24",
+        "hashtags": [
+            "#Hadoop",
+            "#MapReduce",
+            "#AI"
+        ],
+        "location": {
+            "city": "London",
+            "coordinates": [
+                51.5074,
+                -0.1278
+            ]
+        }
+    },
+    {
+        "user_id": "user_16",
+        "tweet_text": "Can anyone explain the basics of #DataScience? Starting my journey. #MapReduce #IoT",
+        "timestamp": "2024-06-13 00:33:48",
+        "hashtags": [
+            "#DataScience",
+            "#AI",
+            "#MachineLearning"
+        ],
+        "location": {
+            "city": "Dubai",
+            "coordinates": [
+                25.2048,
+                55.2708
+            ]
+        }
+    },
+    {
+        "user_id": "user_47",
+        "tweet_text": "The future is here with #DataScience. Exciting times ahead! #Hadoop #AI",
+        "timestamp": "2024-06-10 05:20:46",
+        "hashtags": [
+            "#DataScience",
+            "#DataScience",
+            "#MachineLearning"
+        ],
+        "location": {
+            "city": "Sydney",
+            "coordinates": [
+                -33.8688,
+                151.2093
+            ]
+        }
+    },
+    {
+        "user_id": "user_20",
+        "tweet_text": "Case study: successful implementation of #Analytics in a startup environment. ",
+        "timestamp": "2024-06-08 04:48:00",
+        "hashtags": [
+            "#Analytics"
+        ],
+        "location": {
+            "city": "Dubai",
+            "coordinates": [
+                25.2048,
+                55.2708
+            ]
+        }
+    },
+    {
+        "user_id": "user_41",
+        "tweet_text": "Breaking down the myths surrounding #AI and its applications. #AI",
+        "timestamp": "2024-06-11 12:11:24",
+        "hashtags": [
+            "#AI",
+            "#BigData"
+        ],
+        "location": {
+            "city": "Paris",
+            "coordinates": [
+                48.8566,
+                2.3522
+            ]
+        }
+    },
+    {
+        "user_id": "user_17",
+        "tweet_text": "Breaking down the myths surrounding #DataScience and its applications. ",
+        "timestamp": "2024-06-28 13:01:13",
+        "hashtags": [
+            "#DataScience",
+            "#BigData"
+        ],
+        "location": {
+            "city": "São Paulo",
+            "coordinates": [
+                -23.5505,
+                -46.6333
+            ]
+        }
+    },
+    {
+        "user_id": "user_18",
+        "tweet_text": "How #MapReduce is revolutionizing the way we approach problems. ",
+        "timestamp": "2024-06-02 11:02:11",
+        "hashtags": [
+            "#MapReduce",
+            "#BigData"
+        ],
+        "location": {
+            "city": "Paris",
+            "coordinates": [
+                48.8566,
+                2.3522
+            ]
+        }
+    },
+    {
+        "user_id": "user_37",
+        "tweet_text": "Case study: successful implementation of #MachineLearning in a startup environment. #Blockchain #Analytics",
+        "timestamp": "2024-06-09 12:38:14",
+        "hashtags": [
+            "#MachineLearning",
+            "#Hadoop",
+            "#IoT"
+        ],
+        "location": {
+            "city": "London",
+            "coordinates": [
+                51.5074,
+                -0.1278
+            ]
+        }
+    },
+    {
+        "user_id": "user_48",
+        "tweet_text": "The future is here with #DataScience. Exciting times ahead! #Analytics",
+        "timestamp": "2024-06-10 23:23:36",
+        "hashtags": [
+            "#DataScience"
+        ],
+        "location": {
+            "city": "Berlin",
+            "coordinates": [
+                52.52,
+                13.405
+            ]
+        }
+    },
+    {
+        "user_id": "user_27",
+        "tweet_text": "Breaking down the myths surrounding #Analytics and its applications. ",
+        "timestamp": "2024-06-25 20:32:15",
+        "hashtags": [
+            "#Analytics",
+            "#Analytics",
+            "#MachineLearning"
+        ],
+        "location": {
+            "city": "London",
+            "coordinates": [
+                51.5074,
+                -0.1278
+            ]
+        }
+    },
+    {
+        "user_id": "user_50",
+        "tweet_text": "Challenges and opportunities in the adoption of #Analytics. #BigData",
+        "timestamp": "2024-06-27 01:13:18",
+        "hashtags": [
+            "#Analytics",
+            "#CloudComputing",
+            "#Analytics"
+        ],
+        "location": {
+            "city": "New York",
+            "coordinates": [
+                40.7128,
+                -74.006
+            ]
+        }
+    },
+    {
+        "user_id": "user_27",
+        "tweet_text": "The role of #Analytics in achieving sustainable development goals. #AI",
+        "timestamp": "2024-06-26 04:42:23",
+        "hashtags": [
+            "#Analytics",
+            "#MachineLearning"
+        ],
+        "location": {
+            "city": "Sydney",
+            "coordinates": [
+                -33.8688,
+                151.2093
+            ]
+        }
+    },
+    {
+        "user_id": "user_16",
+        "tweet_text": "Challenges and opportunities in the adoption of #AI. #MachineLearning",
+        "timestamp": "2024-06-30 16:07:30",
+        "hashtags": [
+            "#AI"
+        ],
+        "location": {
+            "city": "Dubai",
+            "coordinates": [
+                25.2048,
+                55.2708
+            ]
+        }
+    },
+    {
+        "user_id": "user_47",
+        "tweet_text": "Challenges and opportunities in the adoption of #DataScience. #MachineLearning #IoT",
+        "timestamp": "2024-06-02 07:10:27",
+        "hashtags": [
+            "#DataScience",
+            "#MapReduce"
+        ],
+        "location": {
+            "city": "London",
+            "coordinates": [
+                51.5074,
+                -0.1278
+            ]
+        }
+    },
+    {
+        "user_id": "user_15",
+        "tweet_text": "A beginner's guide to understanding #Analytics. #Learning #DataScience",
+        "timestamp": "2024-06-29 23:57:17",
+        "hashtags": [
+            "#Analytics",
+            "#BigData",
+            "#Analytics"
+        ],
+        "location": {
+            "city": "Tokyo",
+            "coordinates": [
+                35.6895,
+                139.6917
+            ]
+        }
+    },
+    {
+        "user_id": "user_24",
+        "tweet_text": "Exploring the potential of #BigData in modern industries. ",
+        "timestamp": "2024-06-28 22:11:09",
+        "hashtags": [
+            "#BigData",
+            "#BigData",
+            "#DataScience"
+        ],
+        "location": {
+            "city": "New York",
+            "coordinates": [
+                40.7128,
+                -74.006
+            ]
+        }
+    },
+    {
+        "user_id": "user_39",
+        "tweet_text": "Exploring the potential of #Analytics in modern industries. #Blockchain",
+        "timestamp": "2024-06-25 04:14:57",
+        "hashtags": [
+            "#Analytics",
+            "#MachineLearning",
+            "#Hadoop"
+        ],
+        "location": {
+            "city": "São Paulo",
+            "coordinates": [
+                -23.5505,
+                -46.6333
+            ]
+        }
+    },
+    {
+        "user_id": "user_30",
+        "tweet_text": "The future is here with #DataScience. Exciting times ahead! #Analytics #BigData",
+        "timestamp": "2024-06-16 21:44:42",
+        "hashtags": [
+            "#DataScience",
+            "#MachineLearning",
+            "#Analytics"
+        ],
+        "location": {
+            "city": "San Francisco",
+            "coordinates": [
+                37.7749,
+                -122.4194
+            ]
+        }
+    },
+    {
+        "user_id": "user_50",
+        "tweet_text": "Challenges and opportunities in the adoption of #MapReduce. #MapReduce",
+        "timestamp": "2024-06-02 09:32:56",
+        "hashtags": [
+            "#MapReduce",
+            "#Analytics"
+        ],
+        "location": {
+            "city": "New York",
+            "coordinates": [
+                40.7128,
+                -74.006
+            ]
+        }
+    },
+    {
+        "user_id": "user_31",
+        "tweet_text": "The role of #Analytics in achieving sustainable development goals. #Analytics #IoT",
+        "timestamp": "2024-06-02 05:18:12",
+        "hashtags": [
+            "#Analytics",
+            "#CloudComputing"
+        ],
+        "location": {
+            "city": "Berlin",
+            "coordinates": [
+                52.52,
+                13.405
+            ]
+        }
+    },
+    {
+        "user_id": "user_3",
+        "tweet_text": "How #Blockchain is revolutionizing the way we approach problems. #Hadoop #DataScience",
+        "timestamp": "2024-06-04 23:29:41",
+        "hashtags": [
+            "#Blockchain",
+            "#MachineLearning"
+        ],
+        "location": {
+            "city": "New York",
+            "coordinates": [
+                40.7128,
+                -74.006
+            ]
+        }
+    },
+    {
+        "user_id": "user_44",
+        "tweet_text": "Can anyone explain the basics of #Analytics? Starting my journey. ",
+        "timestamp": "2024-06-06 18:16:04",
+        "hashtags": [
+            "#Analytics",
+            "#MachineLearning"
+        ],
+        "location": {
+            "city": "New York",
+            "coordinates": [
+                40.7128,
+                -74.006
+            ]
+        }
+    },
+    {
+        "user_id": "user_29",
+        "tweet_text": "Just attended a fantastic seminar on #AI! Highly recommend. #MapReduce #AI",
+        "timestamp": "2024-06-28 20:48:26",
+        "hashtags": [
+            "#AI",
+            "#MachineLearning",
+            "#Hadoop"
+        ],
+        "location": {
+            "city": "Paris",
+            "coordinates": [
+                48.8566,
+                2.3522
+            ]
+        }
+    },
+    {
+        "user_id": "user_9",
+        "tweet_text": "How #DataScience is revolutionizing the way we approach problems. #Blockchain",
+        "timestamp": "2024-06-20 21:11:07",
+        "hashtags": [
+            "#DataScience",
+            "#IoT"
+        ],
+        "location": {
+            "city": "Dubai",
+            "coordinates": [
+                25.2048,
+                55.2708
+            ]
+        }
+    },
+    {
+        "user_id": "user_41",
+        "tweet_text": "The role of #CloudComputing in achieving sustainable development goals. #Analytics #CloudComputing",
+        "timestamp": "2024-06-16 07:45:26",
+        "hashtags": [
+            "#CloudComputing",
+            "#CloudComputing"
+        ],
+        "location": {
+            "city": "Paris",
+            "coordinates": [
+                48.8566,
+                2.3522
+            ]
+        }
+    },
+    {
+        "user_id": "user_23",
+        "tweet_text": "Breaking down the myths surrounding #Analytics and its applications. #BigData #MachineLearning",
+        "timestamp": "2024-06-12 21:10:18",
+        "hashtags": [
+            "#Analytics",
+            "#Analytics",
+            "#AI"
+        ],
+        "location": {
+            "city": "San Francisco",
+            "coordinates": [
+                37.7749,
+                -122.4194
+            ]
+        }
+    },
+    {
+        "user_id": "user_41",
+        "tweet_text": "Can anyone explain the basics of #DataScience? Starting my journey. #Hadoop #IoT",
+        "timestamp": "2024-06-22 13:01:50",
+        "hashtags": [
+            "#DataScience",
+            "#MapReduce"
+        ],
+        "location": {
+            "city": "San Francisco",
+            "coordinates": [
+                37.7749,
+                -122.4194
+            ]
+        }
+    },
+    {
+        "user_id": "user_13",
+        "tweet_text": "The role of #Analytics in achieving sustainable development goals. #IoT",
+        "timestamp": "2024-06-15 11:47:00",
+        "hashtags": [
+            "#Analytics"
+        ],
+        "location": {
+            "city": "New York",
+            "coordinates": [
+                40.7128,
+                -74.006
+            ]
+        }
+    },
+    {
+        "user_id": "user_11",
+        "tweet_text": "Case study: successful implementation of #CloudComputing in a startup environment. #DataScience",
+        "timestamp": "2024-06-29 06:55:23",
+        "hashtags": [
+            "#CloudComputing",
+            "#CloudComputing"
+        ],
+        "location": {
+            "city": "Mumbai",
+            "coordinates": [
+                19.076,
+                72.8777
+            ]
+        }
+    },
+    {
+        "user_id": "user_43",
+        "tweet_text": "The role of #CloudComputing in achieving sustainable development goals. #CloudComputing #Hadoop",
+        "timestamp": "2024-06-15 08:41:29",
+        "hashtags": [
+            "#CloudComputing",
+            "#MachineLearning"
+        ],
+        "location": {
+            "city": "Tokyo",
+            "coordinates": [
+                35.6895,
+                139.6917
+            ]
+        }
+    },
+    {
+        "user_id": "user_38",
+        "tweet_text": "Challenges and opportunities in the adoption of #MapReduce. #DataScience",
+        "timestamp": "2024-06-24 23:05:56",
+        "hashtags": [
+            "#MapReduce",
+            "#CloudComputing",
+            "#Blockchain"
+        ],
+        "location": {
+            "city": "Dubai",
+            "coordinates": [
+                25.2048,
+                55.2708
+            ]
+        }
+    },
+    {
+        "user_id": "user_10",
+        "tweet_text": "The future is here with #DataScience. Exciting times ahead! #Hadoop #CloudComputing",
+        "timestamp": "2024-06-06 08:08:24",
+        "hashtags": [
+            "#DataScience"
+        ],
+        "location": {
+            "city": "Sydney",
+            "coordinates": [
+                -33.8688,
+                151.2093
+            ]
+        }
+    }
+]

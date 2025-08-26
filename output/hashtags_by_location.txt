@@ -1,0 +1,101 @@
+city	hashtag	count
+London	#Analytics	27
+London	#CloudComputing	24
+London	#Hadoop	22
+London	#MapReduce	22
+London	#AI	21
+London	#Blockchain	20
+London	#BigData	19
+London	#MachineLearning	18
+London	#DataScience	16
+London	#IoT	15
+Mumbai	#CloudComputing	23
+Mumbai	#MapReduce	23
+Mumbai	#IoT	22
+Mumbai	#MachineLearning	21
+Mumbai	#Hadoop	21
+Mumbai	#Blockchain	18
+Mumbai	#AI	17
+Mumbai	#BigData	16
+Mumbai	#DataScience	15
+Mumbai	#Analytics	15
+São Paulo	#IoT	24
+São Paulo	#BigData	24
+São Paulo	#MachineLearning	24
+São Paulo	#Blockchain	22
+São Paulo	#Analytics	22
+São Paulo	#MapReduce	20
+São Paulo	#CloudComputing	19
+São Paulo	#AI	18
+São Paulo	#DataScience	17
+São Paulo	#Hadoop	14
+Berlin	#Hadoop	24
+Berlin	#Analytics	21
+Berlin	#MachineLearning	19
+Berlin	#BigData	19
+Berlin	#Blockchain	19
+Berlin	#MapReduce	17
+Berlin	#IoT	15
+Berlin	#AI	14
+Berlin	#DataScience	13
+Berlin	#CloudComputing	12
+San Francisco	#CloudComputing	23
+San Francisco	#IoT	22
+San Francisco	#AI	21
+San Francisco	#DataScience	21
+San Francisco	#BigData	20
+San Francisco	#Hadoop	19
+San Francisco	#Blockchain	17
+San Francisco	#Analytics	17
+San Francisco	#MachineLearning	16
+San Francisco	#MapReduce	14
+Sydney	#DataScience	26
+Sydney	#MachineLearning	24
+Sydney	#IoT	24
+Sydney	#Hadoop	20
+Sydney	#BigData	20
+Sydney	#AI	20
+Sydney	#MapReduce	19
+Sydney	#Analytics	19
+Sydney	#Blockchain	19
+Sydney	#CloudComputing	17
+Paris	#MachineLearning	29
+Paris	#DataScience	23
+Paris	#AI	22
+Paris	#BigData	21
+Paris	#Hadoop	21
+Paris	#CloudComputing	19
+Paris	#Blockchain	19
+Paris	#Analytics	19
+Paris	#MapReduce	17
+Paris	#IoT	16
+New York	#Analytics	31
+New York	#DataScience	31
+New York	#BigData	25
+New York	#AI	25
+New York	#MachineLearning	24
+New York	#IoT	24
+New York	#CloudComputing	22
+New York	#Blockchain	20
+New York	#Hadoop	19
+New York	#MapReduce	14
+Dubai	#Hadoop	24
+Dubai	#Blockchain	24
+Dubai	#Analytics	24
+Dubai	#CloudComputing	24
+Dubai	#AI	21
+Dubai	#MapReduce	21
+Dubai	#IoT	19
+Dubai	#MachineLearning	18
+Dubai	#DataScience	17
+Dubai	#BigData	14
+Tokyo	#Analytics	28
+Tokyo	#AI	22
+Tokyo	#BigData	22
+Tokyo	#CloudComputing	20
+Tokyo	#IoT	20
+Tokyo	#Hadoop	19
+Tokyo	#MachineLearning	18
+Tokyo	#Blockchain	18
+Tokyo	#MapReduce	17
+Tokyo	#DataScience	17
